@@ -1,2 +1,0 @@
-# cv
-resume of ndropie
